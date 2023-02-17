@@ -1,11 +1,10 @@
 import React from 'react'
+import "./Header.scss"
 
 function Header() {
   return (
-    <div>
-      <i className='fa fa-phone'></i>
-      salom
-    </div>
+    <>
+    </>
   )
 }
 
