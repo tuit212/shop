@@ -4,6 +4,7 @@ import React from 'react'
 function Footer() {
   return (
     <>
+    <h1>salom2</h1>
     </>
   )
 }

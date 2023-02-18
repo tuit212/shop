@@ -3,7 +3,7 @@ import React from 'react'
 function Corusel() {
   return (
     <div>
-      carusel
+      <h1>salom1</h1>
     </div>
   )
 }
